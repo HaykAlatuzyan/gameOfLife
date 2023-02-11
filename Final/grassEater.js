@@ -1,4 +1,3 @@
-
 class GrassEater {
     constructor(x, y) {
         this.x = x;
